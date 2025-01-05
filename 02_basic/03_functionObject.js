@@ -7,9 +7,7 @@ let yourUser = {
     age:18
 }
 
-function myFunction(...anyOnj){
-     console.log(`username: ${anyOnj.name}`)
-}
+ 
 
 myFunction(myUser,yourUser);
 //console.log(result);
